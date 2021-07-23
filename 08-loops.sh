@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# There are two fundemental loop commands.
+# There are two fundamental loop commands.
 # 1. while
 # 2. for
 
