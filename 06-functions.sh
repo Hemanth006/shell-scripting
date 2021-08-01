@@ -17,5 +17,5 @@ a=100
 sample ABC
 echo Value of b = ${b}
 echo First Argument in Main Program = $1
-echo value of c =${c}
+echo value of c =${c}      # as c is a local varible to function, it does not display any value
 
