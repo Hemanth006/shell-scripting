@@ -8,7 +8,7 @@
 
 ## Syntax: echo <MESSAGE TO PRINT >
 
-echo Hello World
+echo Hello World !!
 
 ## Syntax for color or new lines : echo -e "MESSAGE\n\t\e"
 # echo -e option do need message to be quoted (Either single or double quotes) | (With out quotes also works but with more syntaxing)
