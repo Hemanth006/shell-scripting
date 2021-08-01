@@ -1,7 +1,9 @@
 #!/bin/bash
 
 source common.sh
-
+#output from commands should not be displayed on screen
+#validate the command is successful or not
+# need to validate if script is running with root user or not
 PRINT "Installing Nginx\t"
 yum install nginx -y &>>$LOG
 STAT_CHECK $?
