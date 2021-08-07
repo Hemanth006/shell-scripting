@@ -13,6 +13,7 @@ STAT_CHECK $?
 
 PRINT "Update Redis Listen Address"
 sed -i -e 's/127.0.0.1/0.0.0.0/' /etc/redis.conf /etc/redis/redis.conf
+# 's/ denotes search for, 127.0.0.1 and replace it with 0.0.0.0
 STAT_CHECK $?
 
 PRINT "Start Redis Service\t"

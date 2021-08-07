@@ -27,6 +27,8 @@ STAT_CHECK $?
 
 PRINT "Update RoboShop Config\t"
 sed -i -e '/catalogue/ s/localhost/catalogue.roboshop.internal/'  -e '/user/ s/localhost/user.roboshop.internal/'
+# search for line having catalogue,localhost and replacee with catalogue.roboshop.internal
+# here catalogue.roboshop.internal is name of DNS server ( Route53 )which pings the ip address
 #sed -i -e '/catalogue/ s/localhost/catalogue.roboshop.internal/' -e '/user/ s/localhost/user.roboshop.internal/'  -e '/cart/ s/localhost/cart.roboshop.internal/' -e '/shipping/ s/localhost/shipping.roboshop.internal/' -e '/payment/ s/localhost/payment.roboshop.internal/' /etc/nginx/default.d/roboshop.conf
 STAT_CHECK $?
 
