@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a6a76fe-675f-4c56-95af-f3ac5a2cbae8" name="Default Changelist" comment="edited catalogue" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1w5FPF4F95qzNdRJTG1TalN25Cj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a6a76fe-675f-4c56-95af-f3ac5a2cbae8" name="Default Changelist" comment="" />
+      <created>1627740521486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627740521486</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added test file">
+      <created>1627741651255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627741651255</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added test file">
+      <created>1627741978261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627741978261</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added test file">
+      <created>1627811526209</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627811526209</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added test file">
+      <created>1627811552031</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1627811552031</updated>
+    </task>
+    <task id="LOCAL-00005" summary="sample">
+      <created>1627811726048</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1627811726048</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added She-Bang">
+      <created>1627816457812</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1627816457812</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added some comments">
+      <created>1627817368224</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1627817368224</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Printf and echo syntax">
+      <created>1627817772307</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1627817772307</updated>
+    </task>
+    <task id="LOCAL-00009" summary="comments added">
+      <created>1627821799537</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627821799537</updated>
+    </task>
+    <task id="LOCAL-00010" summary="c value added">
+      <created>1627822756495</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1627822756495</updated>
+    </task>
+    <task id="LOCAL-00011" summary="comment added">
+      <created>1627822902405</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1627822902405</updated>
+    </task>
+    <task id="LOCAL-00012" summary="comment added">
+      <created>1627833228754</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1627833228754</updated>
+    </task>
+    <task id="LOCAL-00013" summary="catalogue added">
+      <created>1628004521859</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1628004521859</updated>
+    </task>
+    <task id="LOCAL-00014" summary="all added">
+      <created>1628004595982</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1628004595982</updated>
+    </task>
+    <task id="LOCAL-00015" summary="edited catalogue">
+      <created>1628004966963</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1628004966963</updated>
+    </task>
+    <task id="LOCAL-00016" summary="edited catalogue">
+      <created>1628005056092</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1628005056092</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added test file" />
+    <MESSAGE value="sample" />
+    <MESSAGE value="added She-Bang" />
+    <MESSAGE value="added some comments" />
+    <MESSAGE value="Printf and echo syntax" />
+    <MESSAGE value="comments added" />
+    <MESSAGE value="c value added" />
+    <MESSAGE value="comment added" />
+    <MESSAGE value="catalogue added" />
+    <MESSAGE value="all added" />
+    <MESSAGE value="edited catalogue" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited catalogue" />
+  </component>
+</project>
