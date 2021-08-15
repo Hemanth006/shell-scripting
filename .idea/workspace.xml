@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a6a76fe-675f-4c56-95af-f3ac5a2cbae8" name="Default Changelist" comment="edited catalogue" />
+    <list default="true" id="0a6a76fe-675f-4c56-95af-f3ac5a2cbae8" name="Default Changelist" comment="edited codes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop/common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/common.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop/mysql.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop/mysql.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628005056092</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="edited catalogue">
+      <created>1628344118533</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1628344118533</updated>
+    </task>
+    <task id="LOCAL-00018" summary="edited codes">
+      <created>1628344141534</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1628344141534</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +189,7 @@
     <MESSAGE value="catalogue added" />
     <MESSAGE value="all added" />
     <MESSAGE value="edited catalogue" />
-    <option name="LAST_COMMIT_MESSAGE" value="edited catalogue" />
+    <MESSAGE value="edited codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited codes" />
   </component>
 </project>

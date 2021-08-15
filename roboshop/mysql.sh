@@ -21,11 +21,14 @@ STAT_CHECK $?
 
 PRINT "Reset MySQL Root Password"
 DEFAULT_PASSWORD=$(grep 'A temporary password' /var/log/mysqld.log  | awk '{print $NF}')
+# awk '{print $NF}' it searches for the last word and replaces it with given word
 echo "show databases;" | mysql -uroot -pRoboShop@1 &>>$LOG
+#it takes default password of RoboShop@1 ; u connect to password and load the default pass.
 if [ $? -ne 0 ]; then
   echo "ALTER USER 'root'@'localhost' IDENTIFIED BY 'RoboShop@1';" | mysql --connect-expired-password -uroot -p${DEFAULT_PASSWORD} &>>$LOG
 fi
 STAT_CHECK $?
+# using if condition we are checking if default pass is taken or not
 
 PRINT "Uninstall MySQL Password Policy"
 echo SHOW PLUGINS | mysql -uroot -pRoboShop@1 2>>$LOG | grep -i validate_password &>>$LOG
