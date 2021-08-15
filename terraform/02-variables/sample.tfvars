@@ -1,0 +1,2 @@
+FRUITS = ["orange"]
+
